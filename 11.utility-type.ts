@@ -5,8 +5,10 @@
  * 3. Readonly - 객체의 속성을 읽기 전용으로 만들어준다.
  * 4. Pick - 객체의 속성을 선택적으로 만들어준다.
  * 5. Omit - Pick 의 반대
+ * -----------------------------------1군
  * 6. Exclude - 유니언 타입에서 특정 타입을 제거한다.
  * 7. Extract - Exclude 의 반대
+ * -------------------------------2군
  * 8. NonNullable - null, undefined 를 제거한다.
  * 9. Parameters - 함수의 파라미터 타입을 가져온다.
  * 10. ConstructorParameters - 클래스의 생성자 파라미터 타입을 가져온다.
